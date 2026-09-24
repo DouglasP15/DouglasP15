@@ -41,7 +41,3 @@ Me chamo Douglas Prudenciano, tenho 28 anos e sou natural de Campinas SP. Atualm
 
 <br/>
 <br/>
-
-### 📊 Estatísticas
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DouglasP15&show_icons=true)
